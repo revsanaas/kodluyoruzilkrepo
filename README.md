@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **Kodluyoruz İlk Repo**
 Bu repo [](Kodluyoruz) Front-End Eğitiminde oluşturduğumuz ilk repo.İçerisinde bir adet README dosyası,bir adet de index.hmtl barındırıyor.
 bir adet README dosyası,bir adet de index.html barındırıyor.
@@ -28,3 +29,8 @@ code . </pre>
 
 
  [MIT](MIT)  
+=======
+# Kodluyoruz İlk Repo
+Bu repo [Kodluyoruz] (Kodluyoruz) Front-End Eğitiminde oluştuğumuz ilk repo.İçerisinde
+bi
+>>>>>>> 79e0a6363ecd6d6e87ac3c0ae05bbe07a427363f
