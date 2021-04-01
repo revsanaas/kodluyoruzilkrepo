@@ -28,9 +28,4 @@ code . </pre>
 ## **License**
 
 
- [MIT](MIT)  
-=======
-# Kodluyoruz İlk Repo
-Bu repo [Kodluyoruz] (Kodluyoruz) Front-End Eğitiminde oluştuğumuz ilk repo.İçerisinde
-bi
->>>>>>> 79e0a6363ecd6d6e87ac3c0ae05bbe07a427363f
+
